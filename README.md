@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a very basic chat app
+This is a very basic chat app built with socket.io
 
 ## Development setup
 
